@@ -1,0 +1,22 @@
+{
+  "name": "platziTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "Christian Moreno <christianmorenoti@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "babel-jest": "^26.5.2",
+    "jest": "^26.5.3"
+  },
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
